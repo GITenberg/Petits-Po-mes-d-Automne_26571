@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32109
     wikipedia: http://en.wikipedia.org/wiki/Stuart_Merrill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26571#Petits-Po-mes-d-Automne
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2008-09-10'
 gutenberg_type: Text
